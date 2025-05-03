@@ -1,4 +1,4 @@
-Atividade 1 
+### Atividade 1 
 
 Contexto
 
@@ -15,7 +15,7 @@ Atividade
 Leia com atenção a situação descrita anteriormente e em Conteúdos > Materiais complementares, baixe o modelo de preenchimento para esta atividade. Partindo da situação descrita, preencha os itens solicitados. Lembre-se de ler o conteúdo para compreender o contexto de tecnologia e pesquise na internet tecnologias específicas que possam se encaixar nas necessidades apresentadas no texto.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Atividade 2 
+### Atividade 2 
 
 Contexto
 
@@ -38,7 +38,7 @@ Atividade
 Leia com atenção as observações descritas no contexto e em Conteúdos > Materiais complementares, baixe o modelo de preenchimento para esta atividade. Preencha o arquivo com as informações solicitadas.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Atividade 3
+### Atividade 3
 
 Contexto
 
@@ -80,7 +80,7 @@ Depois disso, analisando novamente a situação descrita, elenque requisitos fun
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Atividade 4
+### Atividade 4
 
  
 
